@@ -59,3 +59,10 @@
 <div align="center">
   <h4>Check out my repositories and feel free to collaborate!</h4>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amrr-Tarek/Amrr-Tarek/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amrr-Tarek/Amrr-Tarek/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Amrr-Tarek/Amrr-Tarek/output/github-snake.svg" />
+</picture>
