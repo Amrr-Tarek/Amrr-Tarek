@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there, I'm Amr Tarek 👋</h2>
+  <h2>Hi there 👋, I'm Amr</h2>
   <p>CSE Undergraduate at E-JUST | Passionate Data Engineer Trainee | Video Editing Enthusiast</p>
 </div>
 
